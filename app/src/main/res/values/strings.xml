@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">exAula03</string>
+    <string name="txt_user">Usuário:</string>
+    <string name="title">ANAVITÓRIA FC</string>
+    <string name="hint_user">Digite o nome de usuário</string>
+    <string name="txt_pass">Digite a senha:</string>
+    <string name="hint_pass">Digite a senha</string>
+    <string name="txt_confirm_pass">Confirme a senha:</string>
+    <string name="hint_confirm_pass">Digite a senha</string>
+    <string name="txt_sex">Gênero:</string>
+    <string name="text_rb_fem">Feminino</string>
+    <string name="text_rb_masc">Masculino</string>
+    <string name="text_rb_undefined">Prefiro não informar</string>
+    <string name="txt_fav">Quem é sua preferida?</string>
+    <string name="txt_cb_album">Álbum</string>
+    <string name="text_cb_dvd">DVD</string>
+    <string name="text_cb_camiseta">Camiseta</string>
+    <string name="text_rb_moletom">Moletom</string>
+    <string name="text_cb_colar">Colar</string>
+    <string name="text_cb_agenda">Agenda</string>
+    <string name="text_cb_poster">Poster</string>
+    <string name="text_btn_cadastro">Cadastrar-se</string>
+    <string name="text_cb_pulseira">Pulseira</string>
+    <string name="text_cb_outros">Outros</string>
+    <string name="txt_goodies">Goodies:</string>
+    <string name="title_cadastro">Cadastro de usuário</string>
+    <string name="txt_email">Digite seu email:</string>
+    <string name="hint_email">Digite o email</string>
+    <string name="title_success">Usuário criado com sucesso!</string>
+    <string name="txt_descript_user">Nome de usuário:</string>
+    <string name="txt_descript_email">Email:</string>
+    <string name="txt_descript_senha">Senha:</string>
+    <string name="txt_descript_genero">Gênero:</string>
+    <string name="txt_descript_fav">Cantora favorita:</string>
+    <string name="txt_descript_goodies">Goodies:</string>
+    <string name="txt_music">\"Quando vi, já veio sim
+                            Tomou parte de mim\n
+                            Levou embora o meu pesar\n
+                            Teu ver me encanta, emfim\n
+                            Canta perto de mim\n
+                            Tua voz amansa o teu olhar\"</string>
+    <string name="text_credit">- Outrória (Anavitória, OutroEu)</string>
+
+    <string-array name="fav_options">
+        <item>Ana Clara</item>
+        <item>Vitória Falcão</item>
+        <item>Ambas</item>
+    </string-array>
+</resources>
